@@ -7,7 +7,7 @@
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
   <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="21px" height="21px"></a>
 </table>
-<br>
+<br></br>
 <div> 
   <a href="https://www.instagram.com/lrie.19?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: iranilsonmarinho.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
